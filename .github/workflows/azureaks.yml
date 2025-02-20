@@ -1,0 +1,3 @@
+name: create azure aks with terraform
+on:
+  workflow_dispatch:
